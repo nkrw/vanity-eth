@@ -134,6 +134,7 @@ La probabilité de trouver une adresse avec un préfixe spécifique de longueur 
 ## À propos
 
 Ce générateur d'adresses vanity Ethereum est conçu pour être simple, rapide et personnalisable. Il utilise la bibliothèque web3.py et eth_account pour générer des paires de clés Ethereum de manière cryptographiquement sécurisée.
+DONATIONS : 0x000000A0d7607f7966e446e9D189b945D3a40000
 
 ## Avertissement
 
